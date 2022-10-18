@@ -1,4 +1,4 @@
-# _printf
+i# _printf
 Create the printf function 
 This is a colaborative project of Christopher Christian Nnamdi and Richard Ini Brown
 The _printf function accepts an argument and prints to the standard output
@@ -13,7 +13,7 @@ The _printf function accepts an argument and prints to the standard output
 
 
 The printf function sends formatted output to stdout.
-A custom _printf() for learning purposes was developed by cohort  #9 students Christopher Christian Nnamdi and Richard Ini Brown.
+A custom _printf() for learning purposes was developed by cohort  #9 Christopher Christian Nnamdi and Richard Ini Brown.
 _printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
 These arguments are placed using the percentage '%' operator
 ------------
@@ -192,4 +192,4 @@ All the above options work well together.
 ### Authors &copy;
 
 - Christopher Christian Nnamdi < [Nnamdi60](https://github.com/Nnamdi60)
-- Richard Ini Brown < [Richy1994](https://github.com/Richy1994)
+- Richard Ini Brown < Richy1994](https://github.com/Richy1994)
