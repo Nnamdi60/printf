@@ -1,6 +1,6 @@
-# _printf
-Create the printf function
-This is a colaborative project of Christopher Christian Nnamdi and Richard Ini Brown 
+i# _printf
+Create the printf function 
+This is a colaborative project of Christopher Christian Nnamdi and Richard Ini Brown
 The _printf function accepts an argument and prints to the standard output
 
 # printf
@@ -13,8 +13,8 @@ The _printf function accepts an argument and prints to the standard output
 
 
 The printf function sends formatted output to stdout.
-A custom _printf() for learning purposes was developed by cohort  #9 students Christopher Christian Nnamdi and Richard Ini Brown.
-_printf() function format string is a character string, beginning and ending in its initial shift state, if any.
+A custom _printf() for learning purposes was developed by cohort  #9 Christopher Christian Nnamdi and Richard Ini Brown.
+_printf() function format string is a character string, beginning and ending in its initial shift state, if any. 
 These arguments are placed using the percentage '%' operator
 ------------
 
@@ -77,10 +77,10 @@ The main files will include your main header file (holberton.h): **#include holb
 
 **Examples:**
  - Basic String: _printf("%s Holberton", "Hello");`
-    - Output: Hello Holberton
+	 - Output: Hello Holberton
 
 - Print integers: _printf("This is an array element: arr[%d]:%c", 32, arr[32]);`
-  - Output: This is an array element arr[32]:A
+	- Output: This is an array element arr[32]:A
 
 Many other specifiers and flags were added and by combinig those the _printf() function generate a different ouput. The following list are the specifiers and flags allowed.
 
@@ -117,7 +117,7 @@ Specifier                |Output                        |Examples |
 
 ------------
 
-0. ###### I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life.  I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life.
+0. ###### I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life.  I am not going anywhere. You can print that wherever you want to. I'm here and I am a Spur for life. 
 Write a function that produces output according to a format.
 Handle the following conversion specifiers:
 - %
@@ -158,7 +158,7 @@ Handle the following conversion specifier: p
 Handle the following flag characters for non-custom conversion specifiers:
 - ´+´
 - space
-- ´#´
+- ´#´ 
 
 9. ###### Sarcasm is lost in print
 Handle the following length modifiers for non-custom conversion specifiers:
@@ -182,7 +182,7 @@ Handle the - flag character for non-custom conversion specifiers.
 Handle the following custom conversion specifier:
  - r : prints the reversed string
 
-15. ###### The flood of print has turned reading into a process of gulping rather than savoring
+15. ###### The flood of print has turned reading into a process of gulping rather than savoring 
 Handle the following custom conversion specifier:
 - R: prints the rot13'ed string
 
@@ -191,5 +191,5 @@ All the above options work well together.
 
 ### Authors &copy;
 
-- Christopher Christian Nnamdi < [devpcrd](https://github.com/devpcrd)
-- Richard Ini Brown < [machina94](https://github.com/machina94)
+- Christopher Christian Nnamdi < [Nnamdi60](https://github.com/Nnamdi60)
+- Richard Ini Brown < Richy1994](https://github.com/Richy1994)
